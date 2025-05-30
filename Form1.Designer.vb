@@ -103,7 +103,7 @@ Partial Class Form1
         Me.RadioButton1.Location = New System.Drawing.Point(142, 430)
         Me.RadioButton1.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
         Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(192, 55)
+        Me.RadioButton1.Size = New System.Drawing.Size(178, 52)
         Me.RadioButton1.TabIndex = 6
         Me.RadioButton1.TabStop = True
         Me.RadioButton1.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ROG Phone 7 | 256GB" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
@@ -118,7 +118,7 @@ Partial Class Form1
         Me.RadioButton2.Location = New System.Drawing.Point(356, 430)
         Me.RadioButton2.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
         Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(192, 55)
+        Me.RadioButton2.Size = New System.Drawing.Size(178, 52)
         Me.RadioButton2.TabIndex = 7
         Me.RadioButton2.TabStop = True
         Me.RadioButton2.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ROG Phone 7 | 256GB" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
@@ -133,7 +133,7 @@ Partial Class Form1
         Me.RadioButton3.Location = New System.Drawing.Point(802, 430)
         Me.RadioButton3.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
         Me.RadioButton3.Name = "RadioButton3"
-        Me.RadioButton3.Size = New System.Drawing.Size(192, 55)
+        Me.RadioButton3.Size = New System.Drawing.Size(178, 52)
         Me.RadioButton3.TabIndex = 8
         Me.RadioButton3.TabStop = True
         Me.RadioButton3.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ROG Phone 7 | 512GB" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
@@ -148,7 +148,7 @@ Partial Class Form1
         Me.RadioButton4.Location = New System.Drawing.Point(1016, 430)
         Me.RadioButton4.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
         Me.RadioButton4.Name = "RadioButton4"
-        Me.RadioButton4.Size = New System.Drawing.Size(192, 55)
+        Me.RadioButton4.Size = New System.Drawing.Size(178, 52)
         Me.RadioButton4.TabIndex = 9
         Me.RadioButton4.TabStop = True
         Me.RadioButton4.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ROG Phone 7 | 512GB" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
@@ -160,10 +160,10 @@ Partial Class Form1
         Me.RadioButton5.BackgroundImage = CType(resources.GetObject("RadioButton5.BackgroundImage"), System.Drawing.Image)
         Me.RadioButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.RadioButton5.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.RadioButton5.Location = New System.Drawing.Point(570, 430)
+        Me.RadioButton5.Location = New System.Drawing.Point(575, 430)
         Me.RadioButton5.Margin = New System.Windows.Forms.Padding(2, 3, 2, 3)
         Me.RadioButton5.Name = "RadioButton5"
-        Me.RadioButton5.Size = New System.Drawing.Size(210, 55)
+        Me.RadioButton5.Size = New System.Drawing.Size(200, 52)
         Me.RadioButton5.TabIndex = 10
         Me.RadioButton5.TabStop = True
         Me.RadioButton5.Text = "" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "ROG Phone 7 ULTIMATE" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
